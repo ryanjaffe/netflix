@@ -2,9 +2,6 @@ import Firebase from 'firebase/app';
 import 'firebase/firestore';
 import 'firebase/auth';
 
-//Need to somehow seed the database
-
-//Need a config here
 const config = {
     apiKey: 'AIzaSyCpNAPtUD6CDPvySWn1-FnIjYJMCfuldiE',
     authDomain: 'netflix-94f3a.firebaseapp.com',
